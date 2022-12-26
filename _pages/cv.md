@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in VNIT, India 2019-Present
+
 <!-- 
 Work experience
 ======
