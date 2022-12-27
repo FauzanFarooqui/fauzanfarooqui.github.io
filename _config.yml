@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fauzan Farooqui"
 title_separator          : "-"
 name                     : &name "Fauzan Farooqui"
-description              : &description "Undergraduate Computer Science student at VNIT | NLP enthusiast"
+description              : &description "Undergrad senior studying Computer Science at VNIT | NLP"
 url                      : https://fauzanfarooqui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fauzanfarooqui/fauzanfarooqui.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Fauzan"
   avatar           : "profile.png"
-  bio              : "Deep Learning and NLP research enthusiast"
+  bio              : "Undergrad CS senior at VNIT, India | Deep Learning and Natural Language Processing research enthusiast | Member at IvLabs, VNIT's AI & Robotics Lab"
   location         : "Hyderabad, India | Sharjah, UAE"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : fauzanfarooqui7@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "fauzan-farooqui"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -309,3 +309,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
