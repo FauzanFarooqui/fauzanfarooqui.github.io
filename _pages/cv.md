@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[1-page CV]({{ site.url }}/files/cv.pdf)
+[1-page CV]({{ site.url }}/files/resume.pdf)

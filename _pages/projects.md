@@ -5,17 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projects include NLP and Course projects.
+The below are brief outlines of my projects, which are primarily NLP-focused or university course projects.
 
-## NLP
-- Statistical Machine Translation
+## Natural Language Processing
+- Statistical Machine Translation (LTRC, IIITH)
+The below is work at IvLabs.
 - Neural Machine Translation
 - Sentiment Analysis
 - Text Generation
+- Open Information Extraction (research work in-progress)
 
-## Course Projects
-- Heap Memory Manager
-- Weather and Network sensor data management using AVL Binary search trees
-- Linux shell
-- A* Search Algorithm for the TSP
-- n-tile puzzle solver using bidirectional search
+## Undergraduate Course Projects 
+- A* Search Algorithm for the TSP (Artifical Intelligence)
+- n-tile puzzle solver using bidirectional search (Artificial Intelligence)
+- Heap Memory Manager (Concepts in Programming Languages)
+- Linux shell (Operating Systems)
+- Weather and Network sensor data management using AVL Binary search trees (Data Structures)
