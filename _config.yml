@@ -309,6 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
