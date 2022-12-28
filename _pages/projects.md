@@ -14,15 +14,15 @@ The below are brief outlines of my projects, which are primarily NLP-focused or 
     This project was done and presented at [IASNLP'22](https://ltrc.iiit.ac.in/iasnlp2022/) - IIIT-H's Advanced Summer School on Natural Language Processing. 
     - Investigated the effects of tuning English to Hindi, Telugu, Tamil SMT models on different evaluation metrics (BLEU, chrF, TER, etc).
 
-The below projects were done as part of the Natural Language Processing team at [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab. 
+The following NLP projects were done as part of the Natural Language Processing team at [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab. 
 
 - **Open Information Extraction** (research work in-progress) \
     _August '22 - Present_
     - Aimed at using improved embedding techniques to effectively perform the task of extracting structured triples from natural language sentences.
     - Working towards a publication to share results.
 
-- **Sentiment Analysis & Text Classification** [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/text_classification) \
-    _January 2022_
+- **Sentiment Analysis (Text Classification)** [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/text_classification) \
+    _January '22_
     - Aimed at classifying the polarity of a topic.
     - Read papers on different architectures for Sentiment Analysis and Text Classification.
     - Benchmarked the following landmark architectures in PyTorch on the IMDb Movie Reviews dataset.

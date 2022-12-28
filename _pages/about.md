@@ -21,7 +21,8 @@ PS: Please let me know if my profile could be well-suited for relevant Deep Lear
 [Resume](https://fauzanfarooqui.github.io/files/resume.pdf)
 
 ## Updates
-
-**December 2022:** Selected as a Student Volunteer at the prestigious on-site EMNLP 2022 conference at Abu Dhabi, UAE. \
-**August 2022:** Started research work on Open Information Extraction at VNIT, supervised by Prof. Dr. Mansi Radke. \
-**June 2022:** Selected to attend IASNLP'22 - International Institute of Information Technology - Hyderabad's Advanced Natural Language Processing Summer School. 
+_Month_ | _Status_
+---|---
+**December 2022:** | Selected as a Student Volunteer at the prestigious on-site EMNLP 2022 conference at Abu Dhabi, UAE. \
+**August 2022:** | Started research work on Open Information Extraction at VNIT, supervised by Prof. Dr. Mansi Radke. \
+**June 2022:** | Selected to attend IASNLP'22 - International Institute of Information Technology - Hyderabad's Advanced Natural Language Processing Summer School. 
