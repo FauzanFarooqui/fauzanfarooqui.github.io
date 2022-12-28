@@ -17,7 +17,7 @@ In my free time (if I get any, that is), I like literature, catching up with the
 
 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
-PS: Please let me know if my profile could be well-suited for relevant Deep Learning opportunities you know about, or are hiring for! I am graduating in May 2023, and am actively looking for research-oriented roles in Natural Language Processing/Deep Learning, including pre-doctoral research assistantships. I am also interested in optimizing neural models (for example, on the compiler level) for efficient deployment.
+PS: Please let me know if my profile could be well-suited for relevant Deep Learning opportunities you know about, or are hiring for! I am graduating in May 2023, and am **actively looking for research-oriented roles in Natural Language Processing/Deep Learning**, including pre-doctoral research assistantships. I am also interested in optimizing neural models (for example, on the compiler level) for efficient deployment.
 
 [Resume](https://fauzanfarooqui.github.io/files/resume.pdf)
 
@@ -27,4 +27,4 @@ PS: Please let me know if my profile could be well-suited for relevant Deep Lear
 
 **August 2022:** Started research work on Open Information Extraction at VNIT, supervised by Prof. Dr. Mansi Radke.
 
-**June 2022:** Selected to attend IASNLP'22 - International Institute of Information Technology - Hyderabad's Advanced Natural Language Processing Summer School. Project guided by Saumitra Yadav and Prof. Dr. Manish Shrivastava.   
+**June 2022:** Selected to attend IASNLP'22 - International Institute of Information Technology - Hyderabad's Advanced Natural Language Processing Summer School. 
