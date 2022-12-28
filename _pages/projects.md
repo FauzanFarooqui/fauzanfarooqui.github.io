@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-The below are brief outlines of my projects, which are primarily NLP-focused or university course projects.
+The below are outlines of my projects, which are primarily NLP-focused or university course projects.
 
 ## Natural Language Processing
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
@@ -43,13 +43,45 @@ The following NLP projects were done as part of the Natural Language Processing 
     - Generated dinosaur names by building a character-level Language Model.
     - Compared the results of different sequence models such as Vanilla RNN, LSTM and GRU, in PyTorch.
 
-## Undergraduate Course Projects 
-- A* Search Algorithm for the TSP (Artifical Intelligence)
-- n-tile puzzle solver using bidirectional search (Artificial Intelligence)
-- Heap Memory Manager (Concepts in Programming Languages)
-- Linux shell (Operating Systems)
-- Weather and Network sensor data management using AVL Binary search trees (Data Structures)
+## Course Projects
+The following were done as assignments for various Computer Science undergraduate courses at VNIT.
+
+- **Traveling Salesman Problem Solver using A* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \ 
+    _Artifical Intelligence_
+    _October '22_
+    - Implemented the A* search algorithm to solve the TSP, using the minimum spanning tree heuristic function.
+
+- **N-tile Puzzle Solver using Bidirectional Search** [[GitHub]](https://github.com/FauzanFarooqui/n-tile-Puzzle-Solver) \ 
+    _Artificial Intelligence_
+    _August '22_
+    - Implemented the bidirectional search algorithm to solve the puzzle, using breadth-first search in both directions.
+
+- **Linux Command Shell using Multi-threading** [[GitHub]](https://github.com/FauzanFarooqui/Linux-Shell) \ 
+    _Operating Systems_
+    _September '21_
+    - Implemented a basic Linux shell using multi-threading in C.
+    - Built to handle multiple serial/parallel commands, output redirection, change of directory and signal interrupts.
+
+- **Weather Tracking Network using AVL BST** [[GitHub]](https://github.com/FauzanFarooqui/Data-Structures-Project---Weather-Data-Sensing-Network) \
+    _Data Structures_
+    _April '21_
+    - Developed a weather data repository that keeps a record of data collected from a (hypothetical) sensor grid spanning a city, and tracks all the sensors.
+    - Implemented AVL Binary Search Trees for the Weather Data and Sensor Network data structures, with various operations for interaction and management.
+
+- **Heap Memory Manager** [[GitHub]](https://github.com/FauzanFarooqui/Heap-Memory-Management) / 
+    _Concepts in Programming Languages_
+    _February '21_
+    - Implemented the malloc and free functions in C, on a heap, using the first-fit allocation strategy.
 
 ## Miscellaneous
-- Handwritten Digit Recognizer
-- MS Excel / Google Sheets - Complete and complex Personal Finance and Course-CGPA tracking sheets  
+- **Handwritten Digits Recognizer** [[GitHub]](https://github.com/FauzanFarooqui/Handwritten-Digits-Classifier) /
+    _December '20_
+    - Aimed at building a handwritten digits classifier, trained on the MNIST dataset.
+    - Implemented the LeNet-5 architecture in PyTorch.
+- **Personal Finance Tracker in Google Sheets / MS Excel** /
+    _July '21_
+    - Made a complete functional custom workbook to track expenses, income and upcoming expenses across months throughout a year, with category-wise budgets and a consolidated dashboard of the overall health of your wealth. 
+    - Used complex and important Sheets functionalities like Macros, App Scripts, queries, pivot tables, conditional formatting, VLookups, charts, etc.
+    - Building upon the above knowledge, also built:
+        - A Courses-and-GPA tracking sheet that can be used to visualize performance, store marks, and calculate credits and GPAs for the future.
+        - A Time Tracker 
