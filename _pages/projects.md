@@ -47,41 +47,42 @@ The following NLP projects were done as part of the Natural Language Processing 
 The following were done as assignments for various Computer Science undergraduate courses at VNIT.
 
 - **Traveling Salesman Problem Solver using A* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \ 
-    _Artifical Intelligence_
+    _Artifical Intelligence_ \
     _October '22_
     - Implemented the A* search algorithm to solve the TSP, using the minimum spanning tree heuristic function.
 
 - **N-tile Puzzle Solver using Bidirectional Search** [[GitHub]](https://github.com/FauzanFarooqui/n-tile-Puzzle-Solver) \ 
-    _Artificial Intelligence_
+    _Artificial Intelligence_ \
     _August '22_
     - Implemented the bidirectional search algorithm to solve the puzzle, using breadth-first search in both directions.
 
 - **Linux Command Shell using Multi-threading** [[GitHub]](https://github.com/FauzanFarooqui/Linux-Shell) \ 
-    _Operating Systems_
+    _Operating Systems_ \
     _September '21_
     - Implemented a basic Linux shell using multi-threading in C.
     - Built to handle multiple serial/parallel commands, output redirection, change of directory and signal interrupts.
 
 - **Weather Tracking Network using AVL BST** [[GitHub]](https://github.com/FauzanFarooqui/Data-Structures-Project---Weather-Data-Sensing-Network) \
-    _Data Structures_
+    _Data Structures_ \
     _April '21_
     - Developed a weather data repository that keeps a record of data collected from a (hypothetical) sensor grid spanning a city, and tracks all the sensors.
     - Implemented AVL Binary Search Trees for the Weather Data and Sensor Network data structures, with various operations for interaction and management.
 
-- **Heap Memory Manager** [[GitHub]](https://github.com/FauzanFarooqui/Heap-Memory-Management) / 
-    _Concepts in Programming Languages_
+- **Heap Memory Manager** [[GitHub]](https://github.com/FauzanFarooqui/Heap-Memory-Management) \
+    _Concepts in Programming Languages_ \
     _February '21_
     - Implemented the malloc and free functions in C, on a heap, using the first-fit allocation strategy.
 
 ## Miscellaneous
-- **Handwritten Digits Recognizer** [[GitHub]](https://github.com/FauzanFarooqui/Handwritten-Digits-Classifier) /
+- **Handwritten Digits Recognizer** [[GitHub]](https://github.com/FauzanFarooqui/Handwritten-Digits-Classifier) \
     _December '20_
     - Aimed at building a handwritten digits classifier, trained on the MNIST dataset.
     - Implemented the LeNet-5 architecture in PyTorch.
-- **Personal Finance Tracker in Google Sheets / MS Excel** /
+- **Personal Finance Tracker in Google Sheets / MS Excel** \
     _July '21_
     - Made a complete functional custom workbook to track expenses, income and upcoming expenses across months throughout a year, with category-wise budgets and a consolidated dashboard of the overall health of your wealth. 
-    - Used complex and important Sheets functionalities like Macros, App Scripts, queries, pivot tables, conditional formatting, VLookups, charts, etc.
-    - Building upon the above knowledge, also built:
-        - A Courses-and-GPA tracking sheet that can be used to visualize performance, store marks, and calculate credits and GPAs for the future.
-        - A Time Tracker 
+    - Used complex and important sheets' functionalities like Macros, App Scripts, cross-sheet queries, pivot tables, conditional formatting, VLookups, charts, formulae, etc.
+    - With similar skills, also built:
+        - A Courses-and-GPA tracking sheet for university students that can be used to visualize performance, record test marks, and calculate elective credits and GPAs to plan into the future.
+        - A Time Tracker to track time throughout the day. Flexibly records and visualizes time spent by category and visualizes how useful which parts of the day were, hours of productivity for the day and week, etc. 
+    - Note: All three of them are highly personalized to my needs/schedule, the customization has been necessary to make these meta-trackers actually useful. As such, I can't share a public template (though I might if I get the time some day). However, I highly encourage everyone to learn basic Excel/Sheets (you can never get enough!) and you had be surprised by how useful you can be.
