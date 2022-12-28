@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-The below are outlines of my projects, which are primarily NLP-focused or university course projects.
+Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects.
 
 ## Natural Language Processing
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
@@ -46,17 +46,17 @@ The following NLP projects were done as part of the Natural Language Processing 
 ## Course Projects
 The following were done as assignments for various Computer Science undergraduate courses at VNIT.
 
-- **Traveling Salesman Problem Solver using A* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \ 
+- **Traveling Salesman Problem Solver using A* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \
     _Artifical Intelligence_ \
     _October '22_
     - Implemented the A* search algorithm to solve the TSP, using the minimum spanning tree heuristic function.
 
-- **N-tile Puzzle Solver using Bidirectional Search** [[GitHub]](https://github.com/FauzanFarooqui/n-tile-Puzzle-Solver) \ 
+- **N-tile Puzzle Solver using Bidirectional Search** [[GitHub]](https://github.com/FauzanFarooqui/n-tile-Puzzle-Solver) \
     _Artificial Intelligence_ \
     _August '22_
     - Implemented the bidirectional search algorithm to solve the puzzle, using breadth-first search in both directions.
 
-- **Linux Command Shell using Multi-threading** [[GitHub]](https://github.com/FauzanFarooqui/Linux-Shell) \ 
+- **Linux Command Shell using Multi-threading** [[GitHub]](https://github.com/FauzanFarooqui/Linux-Shell) \
     _Operating Systems_ \
     _September '21_
     - Implemented a basic Linux shell using multi-threading in C.
@@ -82,7 +82,7 @@ The following were done as assignments for various Computer Science undergraduat
     _July '21_
     - Made a complete functional custom workbook to track expenses, income and upcoming expenses across months throughout a year, with category-wise budgets and a consolidated dashboard of the overall health of your wealth. 
     - Used complex and important sheets' functionalities like Macros, App Scripts, cross-sheet queries, pivot tables, conditional formatting, VLookups, charts, formulae, etc.
-    - With similar skills, also built:
+    - With the above know-how, also built:
         - A Courses-and-GPA tracking sheet for university students that can be used to visualize performance, record test marks, and calculate elective credits and GPAs to plan into the future.
-        - A Time Tracker to track time throughout the day. Flexibly records and visualizes time spent by category and visualizes how useful which parts of the day were, hours of productivity for the day and week, etc. 
-    - Note: All three of them are highly personalized to my needs/schedule, the customization has been necessary to make these meta-trackers actually useful. As such, I can't share a public template (though I might if I get the time some day). However, I highly encourage everyone to learn basic Excel/Sheets (you can never get enough!) and you had be surprised by how useful you can be.
+        - A Time Tracker to track time spent throughout the day. Flexibly records time spent by category and visualizes how useful which parts of the day were, hours of productivity (or otherwise, like unavoidable work) for the day and week, etc. 
+    - PS: All three of them are highly personalized to my needs/schedule, the customization has been necessary to make these meta-trackers actually useful. Thus, I highly encourage everyone to learn basic Excel/Sheets (you can never get enough!) and you had be surprised by how useful you can get it to be.

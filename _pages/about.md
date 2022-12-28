@@ -17,7 +17,7 @@ In my free time (if I get any, that is), I like literature, catching up with the
 
 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
-PS: Please let me know if my profile could be well-suited for relevant Deep Learning opportunities you know about, or are hiring for! I am graduating in May 2023, and am **actively looking for research-oriented roles in Natural Language Processing/Deep Learning**, including pre-doctoral research assistantships. I am also interested in optimizing neural models (for example, on the compiler level) for efficient deployment. \
+PS: Please let me know if my profile could be well-suited for relevant Deep Learning opportunities you know about, or are hiring for! I am graduating in May 2023, and am **actively looking for research-oriented roles in Natural Language Processing/Deep Learning**, including pre-doctoral research assistantships. (My interest is also picqued by optimization of neural models (for example, on the compiler level) for efficient deployment.) \
 [Resume](https://fauzanfarooqui.github.io/files/resume.pdf)
 
 ## Updates
