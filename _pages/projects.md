@@ -18,7 +18,7 @@ The following NLP projects were done as part of the Natural Language Processing 
 
 - **Open Information Extraction** (research work in-progress) \
     _August '22 - Present_
-    - Aimed at using improved embedding techniques to effectively perform the task of extracting structured triples from natural language sentences.
+    - Aimed at using improved embedding techniques to effectively perform the NLP task of extracting structured triples from natural language sentences.
     - Working towards a publication to share results.
 
 - **Sentiment Analysis (Text Classification)** [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/text_classification) \
@@ -59,7 +59,7 @@ The following were done as assignments for various Computer Science undergraduat
 - **Linux Command Shell using Multi-threading** [[GitHub]](https://github.com/FauzanFarooqui/Linux-Shell) \
     _Operating Systems_ \
     _September '21_
-    - Implemented a basic Linux shell using multi-threading in C.
+    - Implemented a basic Linux shell using multithreading in C POSIX.
     - Built to handle multiple serial/parallel commands, output redirection, change of directory and signal interrupts.
 
 - **Weather Tracking Network using AVL BST** [[GitHub]](https://github.com/FauzanFarooqui/Data-Structures-Project---Weather-Data-Sensing-Network) \
