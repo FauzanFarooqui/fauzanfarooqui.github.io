@@ -47,7 +47,7 @@ The following NLP projects were done as part of the Natural Language Processing 
 The following were done as assignments for various Computer Science undergraduate courses at VNIT.
 
 - **Traveling Salesman Problem Solver using A* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \
-    _Artifical Intelligence_ \
+    _Artificial Intelligence_ \
     _October '22_
     - Implemented the A* search algorithm to solve the TSP, using the minimum spanning tree heuristic function.
 
