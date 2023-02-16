@@ -14,12 +14,13 @@ Here is an outline of my projects, which are primarily NLP/Deep Learning-focused
     This project was done and presented at [IASNLP'22](https://ltrc.iiit.ac.in/iasnlp2022/) - IIIT-H's Advanced Summer School on Natural Language Processing. 
     - Investigated the effects of tuning English to Hindi, Telugu, Tamil SMT models on different evaluation metrics (BLEU, chrF, TER, etc).
 
-The following NLP projects were done as part of the Natural Language Processing team at [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab. 
-
 - **Open Information Extraction** (research work in-progress) \
-    _August '22 - Present_
+    _VNIT, Nagpur_ \
+    _July - December '22_
     - Aimed at using improved embedding techniques to effectively perform the NLP task of extracting structured triples from natural language sentences.
-    - Working towards a publication to share results.
+    - Working towards a publication to share results. This work was supervised by Prof. Dr. Mansi Radke.
+
+The following NLP projects were done as part of the Natural Language Processing team at [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab. 
 
 - **Sentiment Analysis (Text Classification)** [[GitHub]](https://github.com/IvLabs/Natural-Language-Processing/tree/master/text_classification) \
     _January '22_
