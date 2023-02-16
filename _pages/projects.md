@@ -8,17 +8,17 @@ author_profile: true
 Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects.
 
 ## Natural Language Processing
+- **Open Information Extraction** (research work) \
+    _VNIT, Nagpur_ \
+    _July - December '22_
+    - Aimed at using improved embedding techniques to effectively perform the NLP task of extracting structured triples from natural language sentences.
+    - This work was supervised by Prof. Dr. Mansi Radke (working towards a publication to share results).
+
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
     _Language Technologies Resouce Center, International Institute of Information Technology - Hyderabad_ \
     _June '22_ \
     This project was done and presented at [IASNLP'22](https://ltrc.iiit.ac.in/iasnlp2022/) - IIIT-H's Advanced Summer School on Natural Language Processing. 
     - Investigated the effects of tuning English to Hindi, Telugu, Tamil SMT models on different evaluation metrics (BLEU, chrF, TER, etc).
-
-- **Open Information Extraction** (research work in-progress) \
-    _VNIT, Nagpur_ \
-    _July - December '22_
-    - Aimed at using improved embedding techniques to effectively perform the NLP task of extracting structured triples from natural language sentences.
-    - Working towards a publication to share results. This work was supervised by Prof. Dr. Mansi Radke.
 
 The following NLP projects were done as part of the Natural Language Processing team at [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab. 
 
