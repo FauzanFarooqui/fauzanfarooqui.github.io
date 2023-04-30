@@ -13,6 +13,11 @@ Here is an outline of my projects, which are primarily NLP/Deep Learning-focused
     _July - December '22_
     - Aimed at using improved embedding techniques to effectively perform the NLP task of extracting structured triples from natural language sentences.
     - This work was supervised by Prof. Dr. Mansi Radke (working towards a publication to share results).
+    
+- **Open Knowledge Graphs** (ongoing work) \
+    _VNIT, Nagpur_ \
+    _March '23 - Ongoing_
+    - Aiming to improve reasoning for the Open Link Prediction task by introducing Graph Neural Networks to learn entity-mention node features in OKGs.
 
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
     _Language Technologies Resouce Center, International Institute of Information Technology - Hyderabad_ \
