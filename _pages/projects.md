@@ -16,8 +16,8 @@ Here is an outline of my projects, which are primarily NLP/Deep Learning-focused
     
 - **Open Knowledge Graphs** (ongoing work) \
     _VNIT, Nagpur_ \
-    _March '23 - Ongoing_
-    - Aiming to improve reasoning for the Open Link Prediction task by introducing Graph Neural Networks to learn entity-mention node features in OKGs.
+    _March '23 - Present_
+    - Aiming to improve upon the Open Link Prediction task by introducing Graph Neural Networks to learn entity-mention node features in OKG reasoning.
 
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
     _Language Technologies Resouce Center, International Institute of Information Technology - Hyderabad_ \
