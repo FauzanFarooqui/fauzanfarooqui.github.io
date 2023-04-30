@@ -11,9 +11,9 @@ redirect_from:
 Hi! \
 I am Fauzan Farooqui, a senior undergraduate student studying Computer Science and Engineering at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
 I am a member of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I am part of the Natural Language Processing and Deep Learning team, where we pursue research projects in the field. \
-I am currently working on Open Information Extraction. I had been exploring machine translation (especially for low-resource languages) earlier.
+I am currently working on Open Information Extraction and Open Knowledge Graphs. I had been exploring machine translation (especially for low-resource languages) earlier.
 
-In my free time (if I get any, that is), I like literature, catching up with the news, and learning languages. Learning about history and culture interests me too.
+In my free time (if I get any, that is), I like literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
 
 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
