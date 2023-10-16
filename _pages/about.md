@@ -9,15 +9,16 @@ redirect_from:
 ---
 
 Hi! \
-I am Fauzan Farooqui, a senior undergraduate student studying Computer Science and Engineering at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
-I am a member of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I am part of the Natural Language Processing and Deep Learning team, where we pursue research projects in the field. \
-I am currently working on Open Information Extraction and Open Knowledge Graphs. I had been exploring machine translation (especially for low-resource languages) earlier.
+I am Fauzan Farooqui, a Research Engineer working on 5G systems at India's Telecom R&D organization, C-DoT. \
+I studied Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
+During my time at my university, I was a member of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I pursued research in the Natural Language Processing and Deep Learning field. \
+I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my Publications Work).
 
-In my free time (if I get any, that is), I like literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
+In my free time (if I get any, that is), I explore literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
 
 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
-PS: Please let me know if my profile could be well-suited for relevant Deep Learning opportunities you know about, or are hiring for! I am graduating in May 2023, and am **actively looking for research-oriented roles in Natural Language Processing/Deep Learning**, including research assistantships. (My interest is also picqued by optimization of neural models (for example, on the compiler level) for efficient deployment.) \
+PS: You can let me know if my profile is well-suited for relevant Deep Learning opportunities you know about, or are hiring for. (My interest is also picqued by systems (compilers, computer architecture) that support efficient AI deployment.) \
 [Resume](https://drive.google.com/file/d/1lf_559g3T1dkEfL7x_yUlvXaxZk4blx8/view?usp=sharing)
 <!-- [Resume](https://fauzanfarooqui.github.io/files/resume.pdf) -->
 
@@ -25,6 +26,8 @@ PS: Please let me know if my profile could be well-suited for relevant Deep Lear
 
 Month | Status
 ---|---
+**October 2023** | Recieved our first paper acceptance! We benchmarked LLMs in the legal domain in a short paper (see details from my Publications Work section) at the NLLP workshop, co-located at EMNLP 2023. Hope to see you in Singapore this year!
+**August 2023** | Started my first position! I will be working as a Research Engineer on 5G systems at the Centre for Development of Telematics (C-DoT, India's Telecom R&D organization).
 **December 2022** | Selected as a Student Volunteer at the prestigious on-site EMNLP 2022 conference at Abu Dhabi, UAE.
 **July 2022** | Started research work on Open Information Extraction at VNIT, supervised by Prof. Dr. Mansi Radke.
 **June 2022** | Selected to attend IASNLP'22 - International Institute of Information Technology - Hyderabad's Advanced Natural Language Processing Summer School. 
