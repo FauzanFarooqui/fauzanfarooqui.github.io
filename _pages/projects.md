@@ -5,19 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects.
+Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects (work towards publications is seperately described [here](https://fauzanfarooqui.github.io/publications/)).
 
 ## Natural Language Processing
-- **Open Information Extraction** (research work) \
-    _VNIT, Nagpur_ \
-    _July - December '22_
-    - Aimed at using improved embedding techniques to effectively perform the NLP task of extracting structured triples from natural language sentences.
-    - This work was supervised by Prof. Dr. Mansi Radke (working towards a publication to share results).
-    
-- **Open Knowledge Graphs** (ongoing work) \
-    _VNIT, Nagpur_ \
-    _March '23 - Present_
-    - Aiming to improve upon the Open Link Prediction task by introducing Graph Neural Networks to learn entity-mention node features in OKG reasoning.
 
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
     _Language Technologies Resouce Center, International Institute of Information Technology - Hyderabad_ \
@@ -52,7 +42,7 @@ The following NLP projects were done as part of the Natural Language Processing 
 ## Course Projects
 The following were done as assignments for various Computer Science undergraduate courses at VNIT.
 
-- **Traveling Salesman Problem Solver using A* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \
+- **Traveling Salesman Problem Solver using A\* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \
     _Artificial Intelligence_ \
     _October '22_
     - Implemented the A* search algorithm to solve the TSP, using the minimum spanning tree heuristic function.
