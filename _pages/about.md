@@ -12,7 +12,7 @@ Hi! \
 I am Fauzan Farooqui, a Research Engineer working on 5G systems at India's Telecom R&D organization, C-DoT. \
 I studied Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
 During my time at my university, I was a member of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I pursued research in the Natural Language Processing and Deep Learning field. \
-I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my Publications Work).
+I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my [Publication Work](https://fauzanfarooqui.github.io/publications/).
 
 In my free time (if I get any, that is), I explore literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
 
@@ -26,7 +26,7 @@ PS: You can let me know if my profile is well-suited for relevant Deep Learning 
 
 Month | Status
 ---|---
-**October 2023** | Recieved our first paper acceptance! We benchmarked LLMs in the legal domain in a short paper (see details from my Publications Work section) at the NLLP workshop, co-located at EMNLP 2023. Hope to see you in Singapore this year!
+**October 2023** | Recieved our first paper acceptance! We benchmarked LLMs in the legal domain in a short paper (see details [here](https://fauzanfarooqui.github.io/publications/)) at the NLLP'23 workshop, co-located at EMNLP 2023. Hope to see you in Singapore this year!
 **August 2023** | Started my first position! I will be working as a Research Engineer on 5G systems at the Centre for Development of Telematics (C-DoT, India's Telecom R&D organization).
 **December 2022** | Selected as a Student Volunteer at the prestigious on-site EMNLP 2022 conference at Abu Dhabi, UAE.
 **July 2022** | Started research work on Open Information Extraction at VNIT, supervised by Prof. Dr. Mansi Radke.
