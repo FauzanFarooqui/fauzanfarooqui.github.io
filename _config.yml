@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fauzan Farooqui"
 title_separator          : "-"
 name                     : &name "Fauzan Farooqui"
-description              : &description "Undergrad senior studying Computer Science at VNIT | NLP"
+description              : &description "Research Engineer | 5G | Deep Learning & NLP"
 url                      : https://fauzanfarooqui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fauzanfarooqui/fauzanfarooqui.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Fauzan Farooqui"
   avatar           : "profile.png"
-  bio              : "Undergrad CS senior at VNIT, India | Deep Learning and Natural Language Processing researcher | Member at IvLabs, VNIT's AI & Robotics Lab"
-  location         : "Hyderabad, India | Sharjah, UAE"
-  employer         :
+  bio              : "Research Engineer | 5G | Deep Learning and Natural Language Processing"
+  location         : "Bangalore, India | Sharjah, UAE"
+  employer         : "C-DoT"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : fauzanfarooqui7@gmail.com
