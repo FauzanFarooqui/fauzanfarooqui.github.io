@@ -12,7 +12,7 @@ Hi! \
 I am Fauzan Farooqui, a Research Engineer working on 5G systems at India's Telecom R&D organization, C-DoT. \
 I studied Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
 During my time at my university, I was a member of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I pursued research in the Natural Language Processing and Deep Learning field. \
-I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my [Publication Work](https://fauzanfarooqui.github.io/publications/).
+I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my [Publication Work](https://fauzanfarooqui.github.io/publications/)).
 
 In my free time (if I get any, that is), I explore literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
 
