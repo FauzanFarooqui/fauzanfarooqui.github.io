@@ -74,11 +74,11 @@ The following were done as assignments for various Computer Science undergraduat
     _December '20_
     - Aimed at building a handwritten digits classifier, trained on the MNIST dataset.
     - Implemented the LeNet-5 architecture in PyTorch.
-- **Personal Finance Tracker in Google Sheets / MS Excel** \
+- **Google Sheets / MS Excel - based functional trackers** \
     _July '21_
-    - Made a complete functional custom workbook to track expenses, income and upcoming expenses across months throughout a year, with category-wise budgets and a consolidated dashboard of the overall health of your wealth. 
     - Used complex and important sheets' functionalities like Macros, App Scripts, cross-sheet queries, pivot tables, conditional formatting, VLookups, charts, formulae, etc.
-    - With the above know-how, also built:
-        - A Courses-and-GPA tracking sheet for university students that can be used to visualize performance, record test marks, and calculate elective credits and GPAs to plan into the future.
-        - A Time Tracker to track time spent throughout the day. Flexibly records time spent by category and visualizes how useful which parts of the day were, hours of productivity (or otherwise, like unavoidable work) for the day and week, etc. 
-    - PS: All three of them are highly personalized to my needs/schedule, the customization has been necessary to make these meta-trackers actually useful. Thus, I highly encourage everyone to learn basic Excel/Sheets (you can never get enough!) and you had be surprised by how useful you can get it to be.
+    - With the above know-how, built a wide range of useful custom interfaces:
+        - _Personal Finance Workbook_: Made a complete functional custom workbook to track expenses, income and upcoming expenses across months throughout a year, with category-wise budgets and a consolidated dashboard to visualize the overall health of your wealth.
+        - _Courses-and-GPA Sheet_: Tracks and visualizes performance, record test marks, and calculate elective credits and GPAs to plan into future requirements of their degree.
+        - _Time Tracker_: Visualizes time spent throughout the day. Flexibly records time spent by category and visualizes how useful which parts of the day were, hours of productivity (or otherwise, like unavoidable work) for the day and elegentaly consolidates to the week-level. 
+    - PS: All three of them are highly personalized to my needs/schedule, the customization has been necessary to make these meta-trackers actually useful. Thus, I highly encourage everyone to learn basic Excel/Sheets (not asking AI helps to value and use your sheets more) and you had be surprised by how useful you can get it to be.
