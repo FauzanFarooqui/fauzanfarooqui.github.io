@@ -23,6 +23,6 @@ My research work resulted in the following outputs (the first two listed are fro
     - Demonstrated how semantic vectors for the node features give a strong performance boost even in the OKG setting.
 
 - **Testing LLMs in the Legal Domain** (Accepted: pre-print coming soon!) \
-  _Venue: Natural Legal Language Processing Workshop, co-located with EMNLP 2023_
+  _Venue: Natural Legal Language Processing Workshop, co-located with EMNLP 2023_ \
   _Short workshop paper_
   - Benchmarked performance of various LLMs over the LEDGAR dataset by zero-shot prompting.
