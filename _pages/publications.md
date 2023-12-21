@@ -24,7 +24,7 @@ My research work resulted in the following outputs (the first two listed are fro
     - Conductes ablation studies with semantic node features.
 
 - **Evaluating LLMs in the Legal Domain** [[Paper](https://aclanthology.org/2023.nllp-1.22/)] \
-    _December '23_
+    _December '23_ \
     _Venue_: Natural Legal Language Processing (NLLP) Workshop, co-located with EMNLP 2023 (orally presented on December 7 in Singapore) \
  Thanmay J, **Fauzan F**, Luqman F "Large Language Models are legal but they are not: Making the case for a powerful LegalLLM”, _Proceedings of the Natural Legal Language Processing Workshop 2023_, pages 223–229 \
   - Benchmarked performance of various LLMs over the LEDGAR dataset by zero-shot prompting.
