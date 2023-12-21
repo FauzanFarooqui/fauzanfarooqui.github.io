@@ -5,7 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects (work towards publications is seperately described [here](https://fauzanfarooqui.github.io/publications/)).
+Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects \ 
+(work towards publications is seperately described [here](https://fauzanfarooqui.github.io/publications/)).
 
 ## Natural Language Processing
 
