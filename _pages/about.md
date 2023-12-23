@@ -27,8 +27,9 @@ Please feel free to reach out to me for anything, be it open-ended discussions, 
 
 Month | Status
 ---|---
-**October 2023** | Received our first paper acceptance! We benchmarked LLMs in the legal domain in a short paper (see details [here](https://fauzanfarooqui.github.io/publications/)) at the NLLP'23 workshop, co-located at EMNLP 2023. Hope to see you in Singapore this year!
+**December 2023** | My colleague Thanmay will be orally presenting our [paper](https://aclanthology.org/2023.nllp-1.22/) in-person at the NLLP workshop on December 7. 
+**October 2023** | Received our first paper acceptance! We benchmarked LLMs in the legal domain in a short paper at the NLLP'23 workshop, co-located at EMNLP 2023. Hope to see you in Singapore this year!
 **August 2023** | Started my first position! I will be working as a Research Engineer on 5G systems at the Centre for Development of Telematics (C-DoT, India's telecom R&D organization).
-**December 2022** | Selected as a Student Volunteer at the prestigious on-site EMNLP 2022 conference at Abu Dhabi, UAE.
+**December 2022** | Selected as a Student Volunteer at the prestigious on-site EMNLP 2022 conference at Abu Dhabi, UAE. I will be at the UM-IoS workshop in-person all day on December 7.
 **July 2022** | Started my research internship on Open Information Extraction at VNIT, supervised by Dr. Mansi Radke.
 **June 2022** | Selected to attend IASNLP'22 - International Institute of Information Technology - Hyderabad's Advanced Natural Language Processing Summer School.
