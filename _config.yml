@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Deep Learning and Natural Language Processing"
   location         : "Bangalore, India | Sharjah, UAE"
-  employer         : ""
+  employer         : "C-DoT"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yPXjUeQAAAAJ&hl=en"
   email            : fauzanfarooqui7@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
