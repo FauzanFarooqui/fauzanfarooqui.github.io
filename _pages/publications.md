@@ -10,7 +10,7 @@ My research work resulted in the following outputs.
 - **Open Information Extraction** (Long Conference Paper)\
     _2024_ \
     _Venue_: LREC-COLING 2024 (accepted, pre-print upcoming!)\
-    **Fauzan F** & Thanmay J (co-first authors), Pulkit M, Mansi R "Leveraging Linguistically Enhanced Embeddings for Open Information Extraction", _(proceedings yet to be published)_ \ 
+    **Fauzan F** & Thanmay J (co-first authors), Pulkit M, Mansi R "Leveraging Linguistically Enhanced Embeddings for Open Information Extraction", _(proceedings yet to be published)_\ 
     - Proposes novel embedding methods that increase performance by 24.9%, 27.3% and 14.9% on Precision, Recall and F1 scores, being the first to integrate linguistic features with a Seq2Seq PLM (here, [T5](https://arxiv.org/abs/1910.10683)) for the task.
     - Contributes a synthetic dataset that boosted performance by 73.7% and 37.9% on Recall and F1 scores over the Seq2Seq version of the current largest annotated dataset, the latter which we show to be very flawed.
     - First to use a feature that significantly reduces compute resources by using 72% less tags compared to its counterpart, while maintaining the same performance boost!
