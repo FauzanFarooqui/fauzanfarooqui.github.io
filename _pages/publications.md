@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research work resulted in the following outputs (the first two listed are from my undergrad, currently under review; the third was accepted at NLLP@EMNLP'23).
+My research work resulted in the following outputs.
 
-- **Open Information Extraction** [Long Conference Paper]()\
+- **Open Information Extraction** (Long Conference Paper)\
     _2024_ \
     _Venue_: LREC-COLING 2024 (accepted, pre-print upcoming!)\
     **Fauzan F** & Thanmay J (co-first authors), Pulkit M, Mansi R "Leveraging Linguistically Enhanced Embeddings for Open Information Extraction", _(Proceedings yet to be published)_ \ 
