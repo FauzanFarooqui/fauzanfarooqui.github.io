@@ -18,8 +18,8 @@ My research work resulted in the following outputs.
     - This work was supervised by Prof. Mansi Radke.
     
 - **Open Link Prediction in Open Knowledge Graphs** (In-review) \
-    _First author, Workshop paper (short)_ \
-    _2023_
+    _First author_ \
+    _2024_
     - Demonstrates how inductive graph neural networks enhance entity-mention node vectors to improve reasoning in the Open Link Prediction task in [OLPBench](https://drive.google.com/file/d/1y0kShFhvThPYD70_8ZqiOVLehKCcptHJ/view).
     - Investigates the effect of the hashing trick and of FP-16 precision.
     - Conductes ablation studies with semantic node features.
