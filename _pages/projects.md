@@ -6,7 +6,15 @@ author_profile: true
 ---
 
 Here is an outline of my projects, which are primarily NLP/Deep Learning-focused or university course projects \
-(work towards publications is seperately described [here](https://fauzanfarooqui.github.io/publications/)).
+(publications are seperately described [here](https://fauzanfarooqui.github.io/publications/)).
+
+## Graph Neural Networks (with NLP)
+
+- **Open Link Prediction in Open Knowledge Graphs** (in-progress) \
+    _2024_
+    - Demonstrates how inductive graph neural networks enhance entity-mention node vectors to improve reasoning in the Open Link Prediction task in [OLPBench](https://drive.google.com/file/d/1y0kShFhvThPYD70_8ZqiOVLehKCcptHJ/view).
+    - Investigates the effect of the hashing trick and of FP-16 precision.
+    - Conductes ablation studies with semantic node features.
 
 ## Natural Language Processing
 
