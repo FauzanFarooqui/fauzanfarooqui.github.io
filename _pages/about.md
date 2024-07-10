@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! \
 I am Fauzan Farooqui. \
-I am a Research Scientist working on 5G Open RAN systems at India's telecom R&D organization. \
+I am a Research Scientist working on 5G Open RAN systems at C-DoT, India's telecom R&D organization. \
 I did my undergraduate degree in Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
 I was part of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I pursued research work in Natural Language Processing and Deep Learning. \
 I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my [publications](https://fauzanfarooqui.github.io/publications/)).
