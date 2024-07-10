@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! \
 I am Fauzan Farooqui. \
-I am a Research Engineer working on 5G Open RAN systems at India's telecom R&D organization. \
+I am a Research Scientist working on 5G Open RAN systems at India's telecom R&D organization. \
 I did my undergraduate degree in Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. \
 I was part of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I pursued research work in Natural Language Processing and Deep Learning. \
 I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my [publications](https://fauzanfarooqui.github.io/publications/)).
@@ -27,6 +27,7 @@ Please feel free to reach out to me for anything, be it open-ended discussions, 
 
 Month | Status
 ---|---
+**July 2024** | My current job role's title at C-DoT has been redesignated to Scientist (level B) :)
 **May 2024** | We will be answering questions on our [paper](https://aclanthology.org/2024.lrec-main.906/) on OIE, published at the LREC-COLING '24 main conference via the remote QnA session on May 22. Feel free to come have a chat with us and see our video presentation in the portal.
 **February 2024** | Our long paper has been accepted to LREC-COLING '24! COLING is one of the Top 5 most prestigious international NLP conferences. This is quite special to us as it comes after months of deep work being recognized at a prestigious conference - with an undergrad-only team. Extending our work from our time at VNIT, me, Thanmay and Pulkit worked on leveraging linguistic structure to enhance open information extraction under the guidance of Prof. Mansi Radke.
 **December 2023** | My colleague Thanmay will be orally presenting our [paper](https://aclanthology.org/2023.nllp-1.22/) in-person at the NLLP workshop on December 7. 
