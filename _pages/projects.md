@@ -93,10 +93,10 @@ The following were done as assignments for various Computer Science undergraduat
 - **Startup Simulation** \
   _Introduction to Entrepreneurship Course Project_ \
   _May - Aug '21_
-      - Led a team of 5 to simulate a startup idea based on sustainability.
-      - Developed a roadmap for the business model and partnerships.
-      - Strategized pitching, marketing channels and the full client journey in detailed documentation and presentations.
-      - Made detailed financial statements for CapEx, OpEx, revenue and cash flow sheets of up to 3 years in spreadsheets.
+  - Led a team of 5 to simulate a startup idea based on sustainability.
+  - Developed a roadmap for the business model and partnerships.
+  - Strategized pitching, marketing channels and the full client journey in detailed documentation and presentations.
+  - Made detailed financial statements for CapEx, OpEx, revenue and cash flow sheets of up to 3 years in spreadsheets.
   
 - **Google Sheets / MS Excel - based functional trackers** \
     _July '21_
