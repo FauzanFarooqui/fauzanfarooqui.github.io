@@ -18,6 +18,12 @@ Here is an outline of my projects, which are primarily NLP/Deep Learning-focused
 
 ## Natural Language Processing
 
+- **Retrieval-Augmented Generation** [[GitHub]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
+  _[Neo4j & LLMs course](https://graphacademy.neo4j.com/c/fb440738-5329-4c6f-8e7f-34195ddeb20a/)_ \
+  _Oct '24_
+    - Made a GenAI RAG agent that retrieves context from a Neo4j vector DB and stores chat history. Explored prompting strategies.
+    - Deployed a sample PDF RAG chatbot on [Streamlit](https://demo-pdf-rag.streamlit.app/), with chunking and embedding in the     pipeline using the LangChain framework.
+
 - **Statistical Machine Translation** [[PPT]](https://docs.google.com/presentation/d/1-58IoGHbNI8Ji9Tqlyz_v6sYBe4C2gTJr_5YjeeAV4A/edit?usp=sharing) \
     _Language Technologies Resouce Center, International Institute of Information Technology - Hyderabad_ \
     _June '22_ \
@@ -48,7 +54,7 @@ The following NLP projects were done as part of the Natural Language Processing 
     - Generated dinosaur names by building a character-level Language Model.
     - Compared the results of different sequence models such as Vanilla RNN, LSTM and GRU, in PyTorch.
 
-## Course Projects
+## CS Course Projects
 The following were done as assignments for various Computer Science undergraduate courses at VNIT.
 
 - **Traveling Salesman Problem Solver using A\* Search** [[GitHub]](https://github.com/FauzanFarooqui/TSP-solver) \
@@ -83,6 +89,15 @@ The following were done as assignments for various Computer Science undergraduat
     _December '20_
     - Aimed at building a handwritten digits classifier, trained on the MNIST dataset.
     - Implemented the LeNet-5 architecture in PyTorch.
+      
+- **Startup Simulation** \
+  _Introduction to Entrepreneurship Course Project_ \
+  _May - Aug '21_
+      - Led a team of 5 to simulate a startup idea based on sustainability.
+      - Developed a roadmap for the business model and partnerships.
+      - Strategized pitching, marketing channels and the full client journey in detailed documentation and presentations.
+      - Made detailed financial statements for CapEx, OpEx, revenue and cash flow sheets of up to 3 years in spreadsheets.
+  
 - **Google Sheets / MS Excel - based functional trackers** \
     _July '21_
     - Used complex and important sheets' functionalities like Macros, App Scripts, cross-sheet queries, pivot tables, conditional formatting, VLookups, charts, formulae, etc.
