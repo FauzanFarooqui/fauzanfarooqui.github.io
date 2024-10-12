@@ -17,7 +17,7 @@ I have worked on Open Information Extraction and Open Knowledge Graphs (you can 
 
 In my free time (if I get any, that is), I explore literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
 
-Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
+Please feel free to reach out to me for anything, be it open-ended discussions, feedback or collaborations!
 
 <!-- PS: You can let me know if my profile is well-suited for relevant Deep Learning opportunities you know about, or are hiring for. (My interest is also picqued by systems (compilers, computer architecture) that support efficient AI deployment.) \ -->
 [Resume](https://drive.google.com/file/d/1lf_559g3T1dkEfL7x_yUlvXaxZk4blx8/view?usp=sharing)
@@ -27,7 +27,8 @@ Please feel free to reach out to me for anything, be it open-ended discussions, 
 
 Month | Status
 ---|---
-**July 2024** | My current job role's title at C-DoT has been redesignated to Scientist (level B) :)
+**September 2024** | 75 contributors from across the globe, including me, collaborated on the [CVQA](https://cvqa-benchmark.org/) benchmark led by the diverse  [MBZUAI](https://mbzuai.ac.ae/) team. Happy to mention that this [paper](https://arxiv.org/abs/2406.05967) has been accepted at the one-and-only NeurIPS (D&B) 2024! CVQA is a question-answering benchmark that stringently tests cultural understanding of multilingual multimodal LLMs.
+**July 2024** | My current job role's title at C-DoT has been redesignated to Scientist (level B).
 **May 2024** | We will be answering questions on our [paper](https://aclanthology.org/2024.lrec-main.906/) on OIE, published at the LREC-COLING '24 main conference via the remote QnA session on May 22. Feel free to come have a chat with us and see our video presentation in the portal.
 **February 2024** | Our long paper has been accepted to LREC-COLING '24! COLING is one of the Top 5 most prestigious international NLP conferences. This is quite special to us as it comes after months of deep work being recognized at a prestigious conference - with an undergrad-only team. Extending our work from our time at VNIT, me, Thanmay and Pulkit worked on leveraging linguistic structure to enhance open information extraction under the guidance of Prof. Mansi Radke.
 **December 2023** | My colleague Thanmay will be orally presenting our [paper](https://aclanthology.org/2023.nllp-1.22/) in-person at the NLLP workshop on December 7. 
