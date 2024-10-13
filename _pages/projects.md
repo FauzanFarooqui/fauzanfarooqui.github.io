@@ -91,12 +91,13 @@ The following were done as assignments for various Computer Science undergraduat
     - Implemented the LeNet-5 architecture in PyTorch.
       
 - **Startup Simulation** \
-  _Introduction to Entrepreneurship Course Project_ \
+  _Introduction to Entrepreneurship Course Project, VNIT_ \
   _May - Aug '21_
   - Led a team of 5 to simulate a startup idea based on sustainability.
   - Developed a roadmap for the business model and partnerships.
   - Strategized pitching, marketing channels and the full client journey in detailed documentation and presentations.
   - Made detailed financial statements for CapEx, OpEx, revenue and cash flow sheets of up to 3 years in spreadsheets.
+  - This hands-on course was personally taken by the awesome [Shashikant Chauhary](https://www.linkedin.com/in/shashikantchaudhary/) - a serial entrepreneur and angel investor.
   
 - **Google Sheets / MS Excel - based functional trackers** \
     _July '21_
