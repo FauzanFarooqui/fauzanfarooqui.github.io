@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research work resulted in the following papers.
+My research work resulted in the following papers, as listed on [GScholar](https://scholar.google.com/citations?user=yPXjUeQAAAAJ&hl=en).
 
 - **Open Information Extraction** (Long Conference [[Paper](https://aclanthology.org/2024.lrec-main.906/)])\
     _May '24_ \
