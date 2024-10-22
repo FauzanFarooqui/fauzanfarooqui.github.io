@@ -17,6 +17,12 @@ My research work resulted in the following papers.
     - Extends [Amazon's work](https://arxiv.org/abs/2101.05779) on structured prediction tasks to include OIE, thus being the first to study how SP pre-training affects OIE performance.
     - This work was supervised by Prof. Mansi Radke.
 
+- **Visual QA Benchmark for MLLMs** [[Paper](https://arxiv.org/abs/2406.05967)] \
+    _September '24_ \
+    _Venue_: NeurIPS (D&B) '24 \
+ A global team of 75 co-authors led by [MBZUAI](https://mbzuai.ac.ae/). "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark” _(Camera-ready will be published soon)_ \
+  - Creates a question-answering benchmark ([CVQA](https://cvqa-benchmark.org/)) that stringently tests cultural understanding of multilingual multimodal LLMs.
+ 
 - **Evaluating LLMs in the Legal Domain** [[Paper](https://aclanthology.org/2023.nllp-1.22/)] \
     _December '23_ \
     _Venue_: Natural Legal Language Processing (NLLP) Workshop, co-located with EMNLP 2023 (orally presented on December 7 in Singapore) \
