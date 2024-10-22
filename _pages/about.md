@@ -15,12 +15,14 @@ I did my undergraduate degree in Computer Science and Engineering (CSE) at Visve
 I was part of [IvLabs](https://www.ivlabs.in/), VNIT's AI & Robotics Lab, which is managed by undergraduate research-oriented students. At the lab, I pursued research work in Natural Language Processing and Deep Learning. \
 I have worked on Open Information Extraction and Open Knowledge Graphs (you can check out my [publications](https://fauzanfarooqui.github.io/publications/)).
 
+My [resume](https://drive.google.com/file/d/1lf_559g3T1dkEfL7x_yUlvXaxZk4blx8/view?usp=sharing) has my working experience.
+
 In my free time (if I get any, that is), I explore literature, economics, catching up with the news, and learning languages. Learning about history and culture interests me too.
 
 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or collaborations!
 
 <!-- PS: You can let me know if my profile is well-suited for relevant Deep Learning opportunities you know about, or are hiring for. (My interest is also picqued by systems (compilers, computer architecture) that support efficient AI deployment.) \ -->
-[Resume](https://drive.google.com/file/d/1lf_559g3T1dkEfL7x_yUlvXaxZk4blx8/view?usp=sharing)
+
 <!-- [Resume](https://fauzanfarooqui.github.io/files/resume.pdf) -->
 
 ## Updates
